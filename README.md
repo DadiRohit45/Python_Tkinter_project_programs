@@ -6,7 +6,7 @@ Python & Software Engineering Portfolio:
 
 Here is a quick overview of the projects included in this repository. Click on any link to view the code and read the detailed documentation for that specific tool.
 
-*   [🧮 **Tkinter GUI Calculator**](./Calculator) 
+*   [🧮 **Tkinter GUI Calculator**](./Calculator.py) 
     *   A desktop calculator built from scratch using Python's `tkinter` library. Features a custom dark-mode interface and smart error handling.
       
 💻 Tech Stack & Skills Highlighted
