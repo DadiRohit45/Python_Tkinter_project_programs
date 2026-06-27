@@ -26,8 +26,8 @@ A collection of mini projects built using **Python and Tkinter** — Python's bu
 
 | Project | Description | Key Libraries |
 |---|---|---|
-| [🧮 GUI Calculator](./GUI_calculator/README.md) | A dark-themed desktop calculator with safe expression evaluation and chained calculation support | `tkinter`, `simpleeval` |
-| [🧒 Kids Games](./kids_games/README.md) | An interactive educational quiz app for kids covering Math, GK, and Spelling with score tracking | `tkinter`, `simpleeval`, `random` |
+| [🧮 Gui Calculator](./GUI_CALCULATOR/README.md) | A sleek, dark-themed desktop calculator built with **Python and Tkinter**, featuring safe expression evaluation using `simpleeval` and smooth chained calculation support. | `simpleeval`, `tkinter` |
+| [🧠 Gui Quiz](./GUI_QUIZ/README.md) | An interactive educational desktop application built with **Python and Tkinter**, designed to help kids learn through fun quizzes covering Math, General Knowledge, and Spelling. | `random`, `simpleeval`, `tkinter` |
 
 <!-- PROJECTS_END -->
 
@@ -39,8 +39,8 @@ A collection of mini projects built using **Python and Tkinter** — Python's bu
 - Python 3.6+
 
 **Built-in (no install needed):**
-- `tkinter` — GUI library *(built into Python)*
 - `random` — random number generator *(built into Python)*
+- `tkinter` — GUI library *(built into Python)*
 
 **Install via pip:**
 - [`simpleeval`](https://pypi.org/project/simpleeval/) — safe math expression evaluator
@@ -76,17 +76,17 @@ pip install simpleeval
 ## 📁 Repository Structure
 
 ```
-tkinter-projects/
+Python_Tkinter_project_programs/
 │
 ├── README.md                          ← You are here (parent README)
 │
-├── GUI_calculator/
-│   ├── calculator.py                  ← GUI Calculator source code
-│   └── README.md                      ← GUI Calculator documentation
+├── GUI_CALCULATOR/
+│   ├── README.md  ← Gui Calculator documentation
+│   └── calculator.py  ← Gui Calculator source code
 │
-└── kids_games/
-    ├── kids_game.py                   ← Kids Games source code
-    └── README.md                      ← Kids Games documentation
+└── GUI_QUIZ/
+    ├── README.md  ← Gui Quiz documentation
+    └── kids_games.py  ← Gui Quiz source code
 ```
 
 <!-- STRUCTURE_END -->
